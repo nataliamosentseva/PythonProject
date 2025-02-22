@@ -1,0 +1,17 @@
+[33mcommit 3c4909d38f5b72ef07302fa06b1caea6083325b0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: natalia mosentseva <natashkask09@gmail.com>
+Date:   Sun Feb 16 17:08:44 2025 +0300
+
+    add maska.py
+
+[33mcommit 2f3018a51548470689b4ec5ccf15d9fa8c8bf5fb[m
+Author: natalia mosentseva <natashkask09@gmail.com>
+Date:   Sun Feb 16 16:08:19 2025 +0300
+
+    отправка main.py в репозиторий
+
+[33mcommit eb05935e936424cf85bb0c329b0004a75116101c[m
+Author: natalia mosentseva <natashkask09@gmail.com>
+Date:   Sun Feb 16 16:01:09 2025 +0300
+
+    отправка flake8 в репозиторий
