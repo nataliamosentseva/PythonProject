@@ -8,6 +8,7 @@ def mask_account_card(name_card_account: str) -> str:
     if "Счет" in name_card_account:
         number = name_card_account.replace("Счет", "").strip()
         return "Счет " + get_mask_account(number)
+
     else:
         numbers = get_mask_card_number(name_card_account[-16:])
         new_number = " ".join(name_card_account.split()[:-1]) + " " + numbers
